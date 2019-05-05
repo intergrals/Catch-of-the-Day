@@ -3,9 +3,9 @@
 
 ## Progress
 
-- [ ] Lesson 1
-- [ ] Lesson 2
-- [ ] Lesson 3
+- [x] Lesson 1 (03/05/2019)
+- [x] Lesson 2 (04/05/2019)
+- [x] Lesson 3 (04/05/2019)
 - [ ] Lesson 4
 - [ ] Lesson 5
 - [ ] Lesson 6
@@ -32,7 +32,9 @@
 - [ ] Lesson 27
 - [ ] Lesson 28
 - [ ] Lesson 29
-- [ ] Lesson 30
 
 ## Accomplishments
 <em>Date completed and additional features.</em>
+
+- 03/05/2019: Completed setup.
+- 04/05/2019: Learned and created first react component.
