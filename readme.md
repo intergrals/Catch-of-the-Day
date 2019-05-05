@@ -34,13 +34,13 @@
 - [ ] Lesson 29
 
 ## Accomplishments
-<em>Date completed and additional features.</em>
 
 - 03/05/2019: Completed setup.
 - 04/05/2019: Learned and created first React component.
 - 05/05/2019: Added HTML to React components using JSX.
 
 ## Useful Notes
+
 - React.Fragment, blank tags
 - Comments: { /\* [comment] \*/ }
 - Put comments inside returned element so only one thing is returned.
