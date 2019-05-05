@@ -7,7 +7,7 @@
 - [x] Lesson 2 (04/05/2019)
 - [x] Lesson 3 (04/05/2019)
 - [x] Lesson 4 (05/05/2019)
-- [ ] Lesson 5
+- [x] Lesson 5 (05/05/2019)
 - [ ] Lesson 6
 - [ ] Lesson 7
 - [ ] Lesson 8
@@ -38,6 +38,7 @@
 - 03/05/2019: Completed setup.
 - 04/05/2019: Learned and created first React component.
 - 05/05/2019: Added HTML to React components using JSX.
+- 05/05/2019: Added CSS to React components.
 
 ## Useful Notes
 
