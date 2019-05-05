@@ -6,7 +6,7 @@
 - [x] Lesson 1 (03/05/2019)
 - [x] Lesson 2 (04/05/2019)
 - [x] Lesson 3 (04/05/2019)
-- [ ] Lesson 4
+- [x] Lesson 4 (05/05/2019)
 - [ ] Lesson 5
 - [ ] Lesson 6
 - [ ] Lesson 7
@@ -37,4 +37,10 @@
 <em>Date completed and additional features.</em>
 
 - 03/05/2019: Completed setup.
-- 04/05/2019: Learned and created first react component.
+- 04/05/2019: Learned and created first React component.
+- 05/05/2019: Added HTML to React components using JSX.
+
+## Useful Notes
+- React.Fragment, blank tags
+- Comments: { /\* [comment] \*/ }
+- Put comments inside returned element so only one thing is returned.
