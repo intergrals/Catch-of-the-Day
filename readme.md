@@ -10,7 +10,7 @@
 - [x] Lesson 4 (05/05/2019)
 - [x] Lesson 5 (05/05/2019)
 - [x] Lesson 6 (13/05/2019)
-- [ ] Lesson 7
+- [x] Lesson 7 (15/05/2019)
 - [ ] Lesson 8
 - [ ] Lesson 9
 - [ ] Lesson 10
@@ -41,6 +41,7 @@
 - 05/05/2019: Added HTML to React components using JSX.
 - 05/05/2019: Added CSS to React components.
 - 13/05/2019: Made basic layout by adding more components.
+- 16/05/2019: Started using props. Modified header using props.
 
 ## Useful Notes
 
@@ -48,3 +49,4 @@
 - Comments: { /\* [comment] \*/ }
 - Put comments inside returned element so only one thing is returned.
 - If page doesn't load after 'npm start', try 'sudo npm start'.
+- \$r in console opens up currently selected react object.
