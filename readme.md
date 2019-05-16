@@ -12,7 +12,7 @@
 - [x] Lesson 6 (13/05/2019)
 - [x] Lesson 7 (16/05/2019)
 - [x] Lesson 8 (16/05/2019)
-- [ ] Lesson 9
+- [x] Lesson 9 (16/05/2019)
 - [ ] Lesson 10
 - [ ] Lesson 11
 - [ ] Lesson 12
@@ -43,6 +43,7 @@
 - 13/05/2019: Made basic layout by adding more components.
 - 16/05/2019: Started using props. Modified header using props.
 - 16/05/2019: Changed Header into a stateless functional component.
+- 16/05/2019: Created routing component. Made basic routing function.
 
 ## Useful Notes
 
@@ -54,3 +55,4 @@
 - Can write components like a JS function if the component rendered is stateless (Stateless Functional Component).
   - Can call props directly in SFC, given that props is passed as an argument.
   - Can pass object into SFC instead of props.
+- Use colon to make variable in route path.
