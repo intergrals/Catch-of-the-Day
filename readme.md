@@ -10,8 +10,8 @@
 - [x] Lesson 4 (05/05/2019)
 - [x] Lesson 5 (05/05/2019)
 - [x] Lesson 6 (13/05/2019)
-- [x] Lesson 7 (15/05/2019)
-- [ ] Lesson 8
+- [x] Lesson 7 (16/05/2019)
+- [x] Lesson 8 (16/05/2019)
 - [ ] Lesson 9
 - [ ] Lesson 10
 - [ ] Lesson 11
@@ -42,6 +42,7 @@
 - 05/05/2019: Added CSS to React components.
 - 13/05/2019: Made basic layout by adding more components.
 - 16/05/2019: Started using props. Modified header using props.
+- 16/05/2019: Changed Header into a stateless functional component.
 
 ## Useful Notes
 
@@ -50,3 +51,6 @@
 - Put comments inside returned element so only one thing is returned.
 - If page doesn't load after 'npm start', try 'sudo npm start'.
 - \$r in console opens up currently selected react object.
+- Can write components like a JS function if the component rendered is stateless (Stateless Functional Component).
+  - Can call props directly in SFC, given that props is passed as an argument.
+  - Can pass object into SFC instead of props.
