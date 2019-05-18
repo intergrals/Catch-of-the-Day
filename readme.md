@@ -13,7 +13,7 @@
 - [x] Lesson 7 (16/05/2019)
 - [x] Lesson 8 (16/05/2019)
 - [x] Lesson 9 (16/05/2019)
-- [ ] Lesson 10
+- [x] Lesson 10 (16/05/2019)
 - [ ] Lesson 11
 - [ ] Lesson 12
 - [ ] Lesson 13
