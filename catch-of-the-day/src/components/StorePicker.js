@@ -7,8 +7,12 @@ class StorePicker extends React.Component {
   goToStore = event => {
     // disable submit
     event.preventDefault();
+
+    const storeName = this.myInput.current.value;
     // get text from input (event)
-    console.log(this.myInput);
+    console.log(storeName);
+    // change page
+    this.props.history.push(`/store/${storeName}`);
   };
   render() {
     return (
