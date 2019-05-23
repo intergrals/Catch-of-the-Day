@@ -20,7 +20,7 @@
 - [x] Lesson 14 (23/05/2019)
 - [x] Lesson 15 (23/05/2019)
 - [x] Lesson 16 (23/05/2019)
-- [ ] Lesson 17
+- [x] Lesson 17 (23/05/2019)
 - [ ] Lesson 18
 - [ ] Lesson 19
 - [ ] Lesson 20
@@ -49,6 +49,7 @@
 - 23/05/2019: Made button to load sample fishes to fish list.
 - 23/05/2019: Displaying fish picture and info on left component.
 - 23/05/2019: Made "add to cart" button actually add fish to order.
+- 23/05/2019: Display orders in cart and added them up to display total price.
 
 ## Useful Notes
 
