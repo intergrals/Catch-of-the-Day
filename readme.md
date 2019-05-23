@@ -17,7 +17,7 @@
 - [x] Lesson 11 (22/05/2019)
 - [x] Lesson 12 (22/05/2019)
 - [x] Lesson 13 (23/05/2019)
-- [ ] Lesson 14
+- [x] Lesson 14 (23/05/2019)
 - [ ] Lesson 15
 - [ ] Lesson 16
 - [ ] Lesson 17
@@ -46,6 +46,7 @@
 - 16/05/2019: Created routing component. Made basic routing function.
 - 22/05/2019: Made submit button on initial page redirect page to store after input.
 - 23/05/2019: Created fish form and handle submission of info to a class 2 layers up.
+- 23/05/2019: Made button to load sample fishes to fish list.
 
 ## Useful Notes
 
