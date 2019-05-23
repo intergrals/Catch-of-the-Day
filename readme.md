@@ -16,7 +16,7 @@
 - [x] Lesson 10 (16/05/2019)
 - [x] Lesson 11 (22/05/2019)
 - [x] Lesson 12 (22/05/2019)
-- [ ] Lesson 13
+- [x] Lesson 13 (23/05/2019)
 - [ ] Lesson 14
 - [ ] Lesson 15
 - [ ] Lesson 16
@@ -45,6 +45,7 @@
 - 16/05/2019: Changed Header into a stateless functional component.
 - 16/05/2019: Created routing component. Made basic routing function.
 - 22/05/2019: Made submit button on initial page redirect page to store after input.
+- 23/05/2019: Created fish form and handle submission of info to a class 2 layers up.
 
 ## Useful Notes
 
@@ -61,3 +62,4 @@
 - Can create ref in class to pass info between functions: x.createRef().
 - Any additional function that uses "this" must use arrow notation.
 - this.props.history.push([ext]) can be used to reroute to different page with minimal loading time.
+- Can pass functions down to children.
