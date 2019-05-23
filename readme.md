@@ -19,7 +19,7 @@
 - [x] Lesson 13 (23/05/2019)
 - [x] Lesson 14 (23/05/2019)
 - [x] Lesson 15 (23/05/2019)
-- [ ] Lesson 16
+- [x] Lesson 16 (23/05/2019)
 - [ ] Lesson 17
 - [ ] Lesson 18
 - [ ] Lesson 19
@@ -48,6 +48,7 @@
 - 23/05/2019: Created fish form and handle submission of info to a class 2 layers up.
 - 23/05/2019: Made button to load sample fishes to fish list.
 - 23/05/2019: Displaying fish picture and info on left component.
+- 23/05/2019: Made "add to cart" button actually add fish to order.
 
 ## Useful Notes
 
@@ -65,3 +66,4 @@
 - Any additional function that uses "this" must use arrow notation.
 - this.props.history.push([ext]) can be used to reroute to different page with minimal loading time.
 - Can pass functions down to children.
+- A component's key cannot be easily accessed, thus a popular workaround is to pass it in twice (as key and also as something else).
