@@ -23,7 +23,7 @@
 - [x] Lesson 17 (23/05/2019)
 - [x] Lesson 18 (24/05/2019)
 - [x] Lesson 19 (24/05/2019)
-- [ ] Lesson 20
+- [x] Lesson 20 (24/05/2019)
 - [ ] Lesson 21
 - [ ] Lesson 22
 - [ ] Lesson 23
@@ -52,6 +52,7 @@
 - 23/05/2019: Display orders in cart and added them up to display total price.
 - 24/05/2019: Synced fish list with firebase.
 - 24/05/2019: Saved orders in local storage for future use on reload.
+- 24/05/2019: Allow modification of inventory forms and send info up to update app state.
 
 ## Useful Notes
 
@@ -70,3 +71,4 @@
 - this.props.history.push([ext]) can be used to reroute to different page with minimal loading time.
 - Can pass functions down to children.
 - A component's key cannot be easily accessed, thus a popular workaround is to pass it in twice (as key and also as something else).
+- Can make a function in top-level and send it down to child components to modify top-level state.
