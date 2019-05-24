@@ -21,8 +21,8 @@
 - [x] Lesson 15 (23/05/2019)
 - [x] Lesson 16 (23/05/2019)
 - [x] Lesson 17 (23/05/2019)
-- [ ] Lesson 18
-- [ ] Lesson 19
+- [x] Lesson 18 (24/05/2019)
+- [x] Lesson 19 (24/05/2019)
 - [ ] Lesson 20
 - [ ] Lesson 21
 - [ ] Lesson 22
@@ -51,6 +51,7 @@
 - 23/05/2019: Made "add to cart" button actually add fish to order.
 - 23/05/2019: Display orders in cart and added them up to display total price.
 - 24/05/2019: Synced fish list with firebase.
+- 24/05/2019: Saved orders in local storage for future use on reload.
 
 ## Useful Notes
 
