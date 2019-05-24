@@ -50,6 +50,7 @@
 - 23/05/2019: Displaying fish picture and info on left component.
 - 23/05/2019: Made "add to cart" button actually add fish to order.
 - 23/05/2019: Display orders in cart and added them up to display total price.
+- 24/05/2019: Synced fish list with firebase.
 
 ## Useful Notes
 
