@@ -27,7 +27,7 @@
 - [x] Lesson 21 (24/05/2019)
 - [x] Lesson 22 (24/05/2019)
 - [x] Lesson 23 (24/05/2019)
-- [ ] Lesson 24
+- [x] Lesson 24 (25/05/2019)
 - [ ] Lesson 25
 - [ ] Lesson 26
 - [ ] Lesson 27
@@ -56,6 +56,7 @@
 - 24/05/2019: Added delete button to orders. Instead of deleting it entirely like tutorial, remove them by pounds.
 - 24/05/2019: Added animations to order.
 - 24/05/2019: Added PropTypes to all components that require props.
+- 25/05/2019: Added user authentication requirement before they can modify the inventory. Included various login methods. Added Google, which wasn't part of the tutorial.
 
 ## Useful Notes
 
@@ -68,7 +69,7 @@
   - Can call props directly in SFC, given that props is passed as an argument.
   - Can pass object into SFC instead of props.
 - Use colon to make variable in route path.
-- Buttons/forms submit is done inline: `onSubmit={[function]}`
+- Buttons/forms submit is done inline: `onSubmit={[function]}`.
 - Can create ref in class to pass info between functions: `x.createRef()`.
 - Any additional function that uses "this" must use arrow notation.
 - `this.props.history.push([ext])` can be used to reroute to different page with minimal loading time.
@@ -78,4 +79,5 @@
 - Can make in line arrow function to call passed functions.
 - Use \*.styl files to style and animate page like CSS.
 - Use PropTypes (from "prop-types") to make certain props required for components.
-  - props are declared in a `static propTypes = {}`
+  - props are declared in a `static propTypes = {}`.
+- Facebook container will prevent Facebook login from functioning properly.
