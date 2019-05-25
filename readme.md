@@ -28,11 +28,11 @@
 - [x] Lesson 22 (24/05/2019)
 - [x] Lesson 23 (24/05/2019)
 - [x] Lesson 24 (25/05/2019)
-- [ ] Lesson 25
-- [ ] Lesson 26
-- [ ] Lesson 27
-- [ ] Lesson 28
-- [ ] Lesson 29
+- [x] Lesson 25 (25/05/2019)
+- [x] Lesson 26 (25/05/2019)
+- [x] Lesson 27 (25/05/2019)
+- [x] Lesson 28 (25/05/2019)
+- [x] Lesson 29 (25/05/2019)
 
 ## Accomplishments
 
@@ -57,6 +57,7 @@
 - 24/05/2019: Added animations to order.
 - 24/05/2019: Added PropTypes to all components that require props.
 - 25/05/2019: Added user authentication requirement before they can modify the inventory. Included various login methods. Added Google, which wasn't part of the tutorial.
+- 25/05/2019: Built app for production. Deployed to several websites: Now, Netlify. Looked at functionality of eject.
 
 ## Useful Notes
 
