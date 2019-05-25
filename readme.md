@@ -60,10 +60,10 @@
 ## Useful Notes
 
 - React.Fragment, blank tags
-- Comments: `{ /\* [comment] \*/ }`
+- Comments: `{ /* [comment] */ }`
 - Put comments inside returned element so only one thing is returned.
 - If page doesn't load after `npm start`, try `sudo npm start`.
-- `\$r` in console opens up currently selected react object.
+- `$r` in console opens up currently selected react object.
 - Can write components like a JS function if the component rendered is stateless (Stateless Functional Component).
   - Can call props directly in SFC, given that props is passed as an argument.
   - Can pass object into SFC instead of props.
