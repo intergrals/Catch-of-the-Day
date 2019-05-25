@@ -12,7 +12,7 @@ class Order extends React.Component {
       desc: PropTypes.string,
       status: PropTypes.string
     }),
-    order: PropTypes.func,
+    order: PropTypes.object,
     removeFromOrder: PropTypes.func
   };
 
